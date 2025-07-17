@@ -9,7 +9,7 @@ Cílem projektu bylo analyzovat vývoj mezd, cen potravin a HDP v České republ
 ## Otázka 1:  
 **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
-Mzdy v Česku vykazují obecně rostoucí trend napříč všemi odvětvími, přesto se v některých letech objevují mírné meziroční poklesy. Největší pokles byl zaznamenán během hospodářské krize v roce 2009. Celkově ale dochází k růstu mezd ve většině let a odvětví.
+Mzdy v Česku vykazují obecně rostoucí trend napříč všemi odvětvími, přesto se v některých letech objevují mírné meziroční poklesy. Největší pokles byl zaznamenán během roku 2013. Celkově ale dochází k růstu mezd ve většině let a odvětví.
 
 **Ukázka výstupu (zkráceno):**
 | Odvětví                                   | Rok  | Průměrná mzda (Kč) | Meziroční změna (Kč) |
